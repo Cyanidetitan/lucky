@@ -22,7 +22,7 @@ cfscrape
 lk21
 lxml
 httpx
-
+aiohttp
 # Google Drive
 google-api-core
 google-auth
